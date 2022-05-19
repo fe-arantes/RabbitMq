@@ -1,0 +1,1 @@
+﻿https://www.luisdev.com.br/2021/02/23/mensageria-com-rabbitmq-e-asp-net-core-parte-2/
